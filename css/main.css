@@ -1515,20 +1515,20 @@ header .logo a {
 
 .intro-info {
 	margin-top: 4.2rem;
-	margin-right: -30px;
-	margin-left: -30px;
+	margin-right: -20px;
+	margin-left: -20px;
 }
 .intro-info img {
 	height: 11rem;
 	width: 9rem;
 	border-radius: 50%;
 	margin: .9rem 0 0 0;
-	float: left;
+	float: center;
 }
 .intro-info .lead {
-	text-align: right;
-	padding-left: 8rem;
-	padding-top: -4rem;
+	text-align: center;
+	padding-left: 0rem;
+	padding-top: -0rem;
 }
 
 .prof-info {
@@ -1545,7 +1545,7 @@ header .logo a {
 }
 .prof-info .lead {
 	text-align: left;
-	padding-left: 13rem;
+	padding-left: 0rem;
 }
 
 
